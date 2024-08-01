@@ -17,7 +17,7 @@ You can see a live demo of the project [here](https://cdn.upfile.space/6c06ddcce
 - Preview supported file types such as images and HTML files.
 
 ## Usage
-The files will be uploaded to [Upfile.space](https://upfile.space) and the preview of the supported files will be displayed.
+The files that are uploaded to [Upfile.space](https://upfile.space), this server shows the supported files(Images,html files, etc.).
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
@@ -27,6 +27,10 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Open a pull request.
+
+## Donations
+- BSV: 15skHyDEhYHjYSzfCqFCKyZq48SYmGhHkc
+- BTC: bc1qr60zrchegqmh09dxuqxf4us4sju22smyd909jp
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
